@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(36, 34, 34);
+}
+
+h1 {
+    cursor: pointer;
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(112, 110, 110);
+    font-size: 55px;
+}
+
+h1:hover {
+    color: rgb(145, 138, 138);
+}
+
+h2 {
+    text-align: center;
+    cursor: pointer;
+    margin-top: 20px;
+    color: rgb(123, 118, 118);
+    font-size: 40px;
+}
+
+h2:hover {
+    color: rgb(145, 138, 138);
+}
